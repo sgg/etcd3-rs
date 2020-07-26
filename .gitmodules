@@ -1,0 +1,3 @@
+[submodule "jetcd"]
+	path = jetcd
+	url = https://github.com/etcd-io/jetcd.git
